@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a233fcc-38f8-4b5b-aae3-1b4ff196d430" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/simon/src/api/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simon/src/api/wrapper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simon/src/components/Accueil.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simon/src/components/Bordure.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simon/src/components/Jeu.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simon/src/env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simon/src/routes/RootNavigator.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simon/src/routes/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simon/src/sounds/1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simon/src/styles/Accueil.style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simon/src/styles/Jeu.style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simon/src/styles/auth.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simon/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/simon/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simon/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/simon/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simon/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/simon/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/api/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/simon" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1oKUcHKHy8Gx4X4fbMwB96JSsCT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/simon/src/sounds" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\simon\simon\src\sounds" />
+      <recent name="C:\wamp64\www\simon\simon\src\styles" />
+      <recent name="C:\wamp64\www\simon\simon\src" />
+      <recent name="C:\wamp64\www\simon\simon_api\src\Entity" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\simon\simon\src" />
+      <recent name="C:\wamp64\www\simon\simon\src\components\routes" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a233fcc-38f8-4b5b-aae3-1b4ff196d430" name="Default Changelist" comment="" />
+      <created>1613034853708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613034853708</updated>
+      <workItem from="1613034854806" duration="2009000" />
+      <workItem from="1613037160689" duration="40679000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
